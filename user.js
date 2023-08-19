@@ -253,6 +253,7 @@ user_pref("cookiebanners.service.mode.privateBrowsing", 2);
  * START: MY OVERRIDES                                                      *
 ****************************************************************************/
 // Enter your personal prefs below this line:
+user_pref("identity.fxaccounts.enabled", true); // Enable sync
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
