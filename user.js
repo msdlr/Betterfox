@@ -260,6 +260,7 @@ user_pref("findbar.highlightAll", true);
 ****************************************************************************/
 // Enter your personal prefs below this line:
 user_pref("identity.fxaccounts.enabled", true); // Enable sync
+user_pref("browser.uidensity", 1) // Compact density
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
